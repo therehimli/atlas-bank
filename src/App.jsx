@@ -5,10 +5,8 @@ import {
   Stats,
   Business,
   Billing,
-  CardDeal,
   Testimonials,
   Clients,
-  CTA,
   Footer,
 } from './components'
 
@@ -32,10 +30,8 @@ function App() {
           <Stats />
           <Business />
           <Billing />
-          <CardDeal />
           <Testimonials />
           <Clients />
-          <CTA />
           <Footer />
         </div>
       </div>
